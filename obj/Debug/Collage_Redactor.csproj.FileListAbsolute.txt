@@ -1,0 +1,11 @@
+C:\Users\win10\source\repos\Collage_Redactor\bin\Debug\Collage_Redactor.exe.config
+C:\Users\win10\source\repos\Collage_Redactor\bin\Debug\Collage_Redactor.exe
+C:\Users\win10\source\repos\Collage_Redactor\bin\Debug\Collage_Redactor.pdb
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.Form1.resources
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.Properties.Resources.resources
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.exe
+C:\Users\win10\source\repos\Collage_Redactor\obj\Debug\Collage_Redactor.pdb
